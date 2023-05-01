@@ -1,0 +1,41 @@
+* {
+margin: 0;
+padding: ;
+box-sizing: border-box;
+}
+/*  === header === */
+body {
+    background:rgb(174, 237, 240) ;
+}
+
+.logo
+{
+    width: 150px;
+}
+.title {
+    color: #f50202e3;
+    font-weight: 150;
+    font-size: 2em;
+    text-align: center;
+    text-decoration: underline;
+    letter-spacing: 20px;
+
+
+
+}
+/*  === main === */
+#parrafo3 {
+    color: #080808;
+}
+
+p {
+    background-color: #070606e3;
+    color: #e0e0e0;
+    margin: 2rem 0;
+    padding: 1rem;
+    box-shadow: 2px 2px 4px rgba(253, 33, 4, 0.966);
+}
+.parrafo2 {
+    color: #d87474;
+}
+/*  === footer === */
